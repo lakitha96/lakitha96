@@ -3,7 +3,7 @@
     <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Senior%20Backend%20Engineer%20%7C%20Microservices%20%7C%20Technical%20Writer&width=800&height=300&fontSize=30" alt="Lakitha Prabudh Banner" />
   </a>
 
-  <h3>🚀 Senior Backend Engineer | Microservices | Technical Writer</h3>
+  <h3>🚀 Senior Backend Engineer | Technical Writer</h3>
   <p>I build scalable systems and share what I learn.</p>
 
   <a href="https://lakithaprabudh.medium.com" target="_blank">
