@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://your-hosted-banner-url/banner.png" alt="Lakitha Prabudh" width="100%"/>
+  <a href="https://github.com/Akshay090/svg-banners" target="_blank">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Senior%20Backend%20Engineer%20%7C%20Microservices%20%7C%20Technical%20Writer&width=800&height=300&fontSize=30" alt="Lakitha Prabudh Banner" />
+  </a>
 
   <h3>🚀 Senior Backend Engineer | Microservices | Technical Writer</h3>
   <p>I build scalable systems and share what I learn.</p>
