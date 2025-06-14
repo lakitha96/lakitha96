@@ -17,11 +17,11 @@
 
   <h4>🛠 Tech Stack</h4>
   <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=architect&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge"/>
   </p>
 
   <p>🚀 Continuously learning to refine my expertise in microservices architecture, distributed systems, and cloud-native technologies.</p>
