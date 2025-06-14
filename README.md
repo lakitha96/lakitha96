@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <br><br>
 
   <!-- Tech Stack -->
   <h4>🛠 Tech Stack</h4>
