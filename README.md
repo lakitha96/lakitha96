@@ -1,11 +1,14 @@
 <div align="center">
+
+  <!-- Banner -->
   <a href="https://github.com/Akshay090/svg-banners" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Senior%20Backend%20Engineer%20%7C%20Technical%20Writer&width=800&height=300&fontSize=30" alt="Lakitha Prabudh Banner" />
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Senior%20Backend%20Engineer%20%7C%20Technical%20Writer&width=800&height=300&fontSize=30" alt="Lakitha Prabudh Banner" />
   </a>
 
-  <h3>🚀 Senior Backend Engineer | Technical Writer</h3>
+  <!-- Intro -->
   <p>I build scalable systems and share what I learn.</p>
 
+  <!-- Contact Buttons -->
   <a href="https://lakithaprabudh.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
@@ -15,6 +18,7 @@
 
   <br><br>
 
+  <!-- Tech Stack -->
   <h4>🛠 Tech Stack</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
@@ -24,5 +28,9 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge"/>
   </p>
 
+  <br>
+
+  <!-- Learning Statement -->
   <p>🚀 Continuously learning to refine my expertise in microservices architecture, distributed systems, and cloud-native technologies.</p>
+
 </div>
